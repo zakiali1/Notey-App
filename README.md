@@ -1,1 +1,3 @@
-# Notey-App
+# notey_app
+
+A new Flutter project.
