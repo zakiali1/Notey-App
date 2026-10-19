@@ -119,4 +119,4 @@ Some useful enhancements for future iterations include:
 
 ## License
 
-This project is currently distributed without a formal license file. If you are contributing or using it in a production setting, add a license before distributing it publicly.
+This project is currently distributed without a formal license file.
